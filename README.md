@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arun-kumar
 - 👀 I’m interested in ...AI and automation testing
 - 🌱 I’m currently learning ...Automation
-- 💞️ I’m looking to collaborate on ...Testing automatino projects
+- 💞️ I’m looking to collaborate on ...Testing automation projects
 - 📫 How to reach me ...selvamarun28@gmail.com
 
 <!---
